@@ -12,7 +12,7 @@
 - 🌱  I’m currently learning : Information Technology at Maejo University 
 - 🛠   Daily driver stack: Flutter 
 - 🎯  2025 Goal: Build impactful community-based moblie applications  
-- 📫  Reach me: theeraphat.sm@gmail.com | [Github(⟪(https://github.com/Theeraphat-S)⟫) 
+- 📫  Reach me: theeraphat.sm@gmail.com | [Github](⟪https://github.com/Theeraphat-S⟫) 
 
 ---
 
