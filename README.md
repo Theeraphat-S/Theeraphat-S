@@ -1,8 +1,4 @@
 <!-- Banner / Cover -->
-<p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
-</p>
-
 <h1 align="center">Hi, I’m Theeraphat Srimontha /></h1>
 
 <p align="center">
