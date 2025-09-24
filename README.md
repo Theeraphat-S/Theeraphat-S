@@ -37,10 +37,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Stats & Activity
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&v=2" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theeraphat-S&layout=compact&theme=rose_pine&hide_border=true&v=2" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=Theeraphat-S&theme=rose_pine&hide_border=true&v=2" />
+
 </div>
 
 ---
