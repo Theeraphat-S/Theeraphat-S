@@ -57,5 +57,5 @@
 - 📱 Phone: +66 647700893
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Theeraphat-S&style=flat-square" alt="profile views"/>
 </p>
