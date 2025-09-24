@@ -9,10 +9,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+- 🌱  I’m currently learning : Information Technology at Maejo University 
+- 🛠   Daily driver stack: Flutter 
+- 🎯  2025 Goal: Build impactful community-based moblie applications  
+- 📫  Reach me: theeraphat.sm@gmail.com | [Github(⟪(https://github.com/Theeraphat-S)⟫) 
 
 ---
 
