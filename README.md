@@ -1,8 +1,8 @@
 <!-- Banner / Cover -->
-<h1 align="center">Hi, I’m Theeraphat Srimontha /></h1>
+<h1 align="center">Hi, I’m Theeraphat Srimontha </h1>
 
 <p align="center">
-  <strong>Mobile Developer• Tech Educator • Lifelong Learner</strong><br/>
+  <strong>Mobile Developer • Tech Educator • Lifelong Learner</strong><br/>
   <em>“Turning ideas into delightful, scalable software.”</em>
 </p>
 
