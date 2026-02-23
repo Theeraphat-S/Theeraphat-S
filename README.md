@@ -29,8 +29,8 @@
 ---
 
 ## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
+| Project | Tech | Highlights 
+|---------|------|-----------|
 | NCD Screening App | Flutter · MySQL | Mobile screening & risk assessment for local hospital; online‑first forms | 
 
 ---
