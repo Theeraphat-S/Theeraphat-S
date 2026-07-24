@@ -1,18 +1,18 @@
 <!-- Banner / Cover -->
-<h1 align="center">Hi, I’m Theeraphat Srimontha </h1>
+<h1 align="center">Hi, I'm Theeraphat Srimontha 👋</h1>
 
 <p align="center">
   <strong>Mobile Developer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
+  <em>"Turning ideas into delightful, scalable software."</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning : Information Technology at Maejo University 
-- 🛠   Daily driver stack: Flutter 
-- 🎯  2025 Goal: Build impactful community-based moblie applications  
-- 📫  Reach me: theeraphat.sm@gmail.com 
+- 🌱 Currently studying Information Technology at Maejo University
+- 🛠 Daily driver stack: Flutter
+- 🎯 2025 Goal: Build impactful community-based mobile applications
+- 📫 Reach me: theeraphat.sm@gmail.com
 
 ---
 
@@ -29,9 +29,9 @@
 ---
 
 ## 📌 Featured Projects
-| Project | Tech | Highlights 
-|---------|------|-----------|
-| [NCD Screening App](https://github.com/Theeraphat-S/Theeraphat-S/blob/main/SRS_%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%204%20%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%87.pdf) | Flutter · MySQL | Mobile screening & risk assessment for local hospital; online‑first forms | 
+| Project | Tech | Highlights |
+|---------|------|------------|
+| [NCD Screening App](https://github.com/Theeraphat-S/Theeraphat-S/blob/main/SRS_%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%204%20%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%87.pdf) | Flutter · MySQL | Mobile screening & risk assessment for local hospital; online-first forms |
 
 ---
 
@@ -48,10 +48,10 @@
 
 ---
 
-## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+## 🤝 Let's Connect
+> **"Great products are built by great people working together."**
 
-- 💌 Email: theeraphat.sm@gmail.com  
+- 💌 Email: theeraphat.sm@gmail.com
 - 📱 Phone: +66 647700893
 
 <p align="center">
