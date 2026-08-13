@@ -129,7 +129,6 @@ fun_fact: >
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-theeraphat.sm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theeraphat.sm@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B66_64_770_0893-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+66647700893)
 
 <br/>
 
