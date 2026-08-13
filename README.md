@@ -20,7 +20,7 @@ location: Chiang Mai, Thailand 🇹🇭
 education:
   degree: Information Technology
   university: Maejo University
-current_role: Mobile Developer @ Fakduai Digital Platform
+current_role: Mobile Developer
 daily_driver: Flutter
 passions:
   - Crafting intuitive mobile UIs
