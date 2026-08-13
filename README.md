@@ -102,11 +102,11 @@ fun_fact: >
 <div align="center">
 
 <a href="https://github.com/Theeraphat-S">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theeraphat-S&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&cache_seconds=1800" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-git-master-gruvbox-factory.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-git-master-gruvbox-factory.vercel.app/api/top-langs/?username=Theeraphat-S&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&cache_seconds=1800" alt="Top Languages" />
 </a>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=Theeraphat-S&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Theeraphat-S&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
