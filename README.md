@@ -1,30 +1,84 @@
-<!-- Banner / Cover -->
-<h1 align="center">Hi, I'm Theeraphat Srimontha 👋</h1>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <strong>Mobile Developer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>"Turning ideas into delightful, scalable software."</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Theeraphat%20Srimontha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Developer%20%E2%80%A2%20Tech%20Educator%20%E2%80%A2%20Lifelong%20Learner&descSize=16&descAlignY=58&descColor=8b949e" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+delightful+mobile+experiences+%F0%9F%9A%80;Flutter+%E2%80%A2+Spring+Boot+%E2%80%A2+Firebase;Turning+ideas+into+scalable+software+%E2%9C%A8)](https://git.io/typing-svg)
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=Theeraphat-S&style=flat-square&color=58A6FF&label=Profile+Views" alt="profile views" />
 
-- 🌱 Currently studying Information Technology at Maejo University
-- 🛠 Daily driver stack: Flutter
-- 🎯 2025 Goal: Build impactful community-based mobile applications
-- 📫 Reach me: theeraphat.sm@gmail.com
+</div>
 
 ---
 
-## 🧰 Skills
+## 👨‍💻 About Me
+
+```yaml
+name: Theeraphat Srimontha
+pronouns: he/him
+location: Chiang Mai, Thailand 🇹🇭
+education:
+  degree: Information Technology
+  university: Maejo University
+current_role: Mobile Developer @ Fakduai Digital Platform
+daily_driver: Flutter
+passions:
+  - Crafting intuitive mobile UIs
+  - Building scalable backend systems
+  - Teaching & sharing tech knowledge
+fun_fact: >
+  I believe the best code reads like a story —
+  clear, compelling, and easy to follow.
+```
+
+---
+
+## 🚀 Currently
+
+<table>
+  <tr>
+    <td>🔨 <strong>Working On</strong></td>
+    <td>Pinto App — a super app platform by Fakduai Digital Platform</td>
+  </tr>
+  <tr>
+    <td>📖 <strong>Learning</strong></td>
+    <td>Advanced Flutter architecture, CI/CD pipelines &amp; cloud-native patterns</td>
+  </tr>
+  <tr>
+    <td>🎯 <strong>Goal 2025</strong></td>
+    <td>Ship production-grade apps that genuinely improve people's lives</td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-| Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Technical Skills** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white) |
-| **Soft Skills**      | 🤝 Teamwork · 🎨 Creativity · 🔄 Adaptability & Continuous Learning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+### Mobile & Frontend
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend & Database
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -32,22 +86,50 @@
 
 ## 📌 Featured Projects
 
-| Logo | Project | Tech | Highlights |
-| :---: | :--- | :--- | :--- |
-| <img src="assets/pinto-logo.png" width="48" height="48" style="border-radius:8px;" /> | **Pinto App**<br/>*(Fakduai Digital Platform)* | Flutter · Mobile App | The Pinto application was developed by Fakduai Digital Platform.<br/><br/>[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pintoapp.superapp&pcampaignid=web_share) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/th/app/pinto/id6754710078?l=th) |
-| 🏥 | [NCD Screening App](https://github.com/Theeraphat-S/Theeraphat-S/blob/main/SRS_%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%204%20%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%87.pdf) | Flutter · MySQL | Mobile screening & risk assessment for local hospital; online-first forms |
+<div align="center">
+
+|                                         &nbsp;                                         | Project                                                                                                             | Stack                | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| :------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------ | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="assets/pinto-logo.png" width="48" height="48" style="border-radius:12px;" /> | **[Pinto App](https://play.google.com/store/apps/details?id=com.pintoapp.superapp)**<br/>_Fakduai Digital Platform_ | `Flutter` `Firebase` | A super-app platform connecting users to services. Live on both app stores.<br/><br/>[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pintoapp.superapp&pcampaignid=web_share) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/th/app/pinto/id6754710078?l=th)                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                           🏥                                           | **NCD Screening App**<br/>_University Project_                                                                      | `Flutter` `MySQL`    | Mobile risk-assessment tool for 4 chronic non-communicable diseases. Designed for local hospital workflows with online-first form architecture.<br/><br/>[![SRS Docs](https://img.shields.io/badge/SRS_Document-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Theeraphat-S/Theeraphat-S/blob/main/SRS_%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%204%20%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%87.pdf) |
+
+</div>
 
 ---
 
-## 📊 Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Theeraphat-S&layout=compact&theme=rose_pine&hide_border=true" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Theeraphat-S&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=Theeraphat-S&theme=rose_pine&hide_border=true" />
+<img height="180" src="https://streak-stats.demolab.com?user=Theeraphat-S&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Theeraphat-S&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theeraphat-S/Theeraphat-S/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theeraphat-S/Theeraphat-S/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Theeraphat-S/Theeraphat-S/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -55,11 +137,20 @@
 
 ## 🤝 Let's Connect
 
-> **"Great products are built by great people working together."**
+<div align="center">
 
-- 💌 Email: theeraphat.sm@gmail.com
-- 📱 Phone: +66 647700893
+> _"Great products are built by great people working together — and great code is written with empathy."_
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Theeraphat-S&style=flat-square" alt="profile views"/>
-</p>
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-theeraphat.sm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theeraphat.sm@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B66_64_770_0893-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+66647700893)
+
+<br/>
+
+_Open to collaborations, freelance projects, and interesting conversations. Don't hesitate to reach out!_ 🚀
+
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer" />
