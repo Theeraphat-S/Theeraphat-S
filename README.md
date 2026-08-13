@@ -124,7 +124,7 @@ fun_fact: >
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Theeraphat-S&theme=dark&hide_border=true&type=svg)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Theeraphat-S&theme=github_dark&hide_border=true&type=svg)
 <br/><br/>
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theeraphat-S&theme=github_dark)
 
