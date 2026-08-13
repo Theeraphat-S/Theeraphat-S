@@ -120,19 +120,11 @@ fun_fact: >
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
 <div align="center">
 
-> _"Great products are built by great people working together — and great code is written with empathy."_
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-theeraphat.sm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theeraphat.sm@gmail.com)
-
-<br/>
-
-_Open to collaborations, freelance projects, and interesting conversations. Don't hesitate to reach out!_ 🚀
+![Theeraphat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
