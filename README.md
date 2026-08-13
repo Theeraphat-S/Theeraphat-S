@@ -101,11 +101,12 @@ fun_fact: >
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
+<a href="https://github.com/Theeraphat-S">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theeraphat-S&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&cache_seconds=1800" alt="Top Languages" />
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theeraphat-S&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Theeraphat-S&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img height="180" src="https://streak-stats.demolab.com/?user=Theeraphat-S&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
@@ -115,7 +116,10 @@ fun_fact: >
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Theeraphat-S&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits](https://img.shields.io/badge/Total%20Commits-92%2B-58A6FF?style=for-the-badge&logo=git&logoColor=white)
+![PRs](https://img.shields.io/badge/Pull%20Requests-8-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars%20Earned-1-FFD700?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-5%2B-58A6FF?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
