@@ -14,18 +14,26 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Theeraphat Srimontha
+nickname: Oven
 pronouns: he/him
 location: Chiang Mai, Thailand 🇹🇭
 education:
   degree: Information Technology
   university: Maejo University
 current_role: Mobile Developer
-daily_driver: Flutter
-passions:
-  - Crafting intuitive mobile UIs
-  - Building scalable backend systems
-  - Teaching & sharing tech knowledge
+primary_stack:
+  mobile:
+    - Flutter
+    - Dart
+    - Bloc
+  backend:
+    - Go
+    - Java (Spring Boot)
+    - MySQL
+focus:
+  - Designing intuitive mobile experiences
+  - Building maintainable backend systems
+  - Teaching and sharing practical tech knowledge
 fun_fact: >
   I believe the best code reads like a story —
   clear, compelling, and easy to follow.
