@@ -19,9 +19,8 @@
 
 ```yaml
 identity:
-  name: Theeraphat Srimontha (Oven)
-  current_role: Mobile Developer @ Fakduai Digital Platform
-  location: Chiang Mai, Thailand 🇹🇭
+  nickname: Oven
+  current_role: Mobile Developer
   education:
     degree: B.Sc. in Information Technology
     institution: Maejo University
