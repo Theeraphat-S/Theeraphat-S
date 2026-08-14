@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Theeraphat-S&style=flat-square&color=58a6ff&label=Profile+Views" alt="profile views" />
-  <img src="https://img.shields.io/badge/Location-Chiang_Mai%2C_TH-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff" alt="Location" />
   <img src="https://img.shields.io/badge/Role-Mobile_Developer-0d1117?style=flat-square&logo=flutter&logoColor=58a6ff" alt="Role" />
   <img src="https://img.shields.io/badge/Status-Active_Developer-0d1117?style=flat-square&logo=statuspage&logoColor=3fb950" alt="Status" />
 </p>
@@ -95,21 +94,21 @@ engineering_philosophy: >
   <tr>
     <td width="50%">
       <h3>📱 Production Super App Delivery</h3>
-      <p>Shipped and maintaining <strong>Pinto App</strong> across <strong>iOS (App Store)</strong> and <strong>Android (Google Play)</strong>, serving daily users and vendor services with smooth UI performance.</p>
+      <p>Shipped and maintaining <strong>Pinto App</strong> across <strong>iOS (App Store)</strong> and <strong>Android (Google Play)</strong>, serving daily users and vendor services with smooth UI performance.</p><br/>
     </td>
     <td width="50%">
       <h3>🏗️ Architecture & State Management</h3>
-      <p>Architecting scalable Flutter codebases using <strong>BLoC pattern</strong>, decoupled dependency injection, and clean layer separation for maximum testability.</p>
+      <p>Architecting scalable Flutter codebases using <strong>BLoC pattern</strong>, decoupled dependency injection, and clean layer separation for maximum testability.</p><br/>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🔌 End-to-End API Integration</h3>
-      <p>Bridging mobile frontends with robust backends built in <strong>Go</strong> and <strong>Spring Boot</strong>, real-time messaging via <strong>Firebase</strong>, and relational data modeling with <strong>MySQL</strong>.</p>
+      <p>Bridging mobile frontends with robust backends built in <strong>Go</strong> and <strong>Spring Boot</strong>, real-time messaging via <strong>Firebase</strong>, and relational data modeling with <strong>MySQL</strong>.</p><br/>
     </td>
     <td width="50%">
       <h3>🚀 Continuous Innovation</h3>
-      <p>Constantly refining cross-platform rendering performance, automated build pipelines, and cloud-native backend patterns.</p>
+      <p>Constantly refining cross-platform rendering performance, automated build pipelines, and cloud-native backend patterns.</p><br/>
     </td>
   </tr>
 </table>
