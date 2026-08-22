@@ -116,11 +116,16 @@ engineering_philosophy: >
 
 ## 📊 GitHub Analytics & Activity
 
-<div align="center">
-
-<img src="assets/github-metrics.svg" alt="GitHub Metrics" width="50%" />
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/github-metrics-left.svg" alt="GitHub Analytics & Calendar" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/github-metrics-right.svg" alt="GitHub Activity & Community" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <!-- Footer -->
 <div align="center">

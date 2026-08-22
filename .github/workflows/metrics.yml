@@ -13,16 +13,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Metrics
+      # Left Column: Header, 3D Isometric Calendar, Languages
+      - name: Left Column Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Theeraphat-S
           template: classic
-          base: header, activity, community, repositories
+          base: header
           config_timezone: Asia/Bangkok
-          filename: assets/github-metrics.svg
-          config_order: base.header, isocalendar, languages, notable, stars, people
+          filename: assets/github-metrics-left.svg
+          config_order: base.header, isocalendar, languages
 
           # Plugin: 3D Isometric Calendar
           plugin_isocalendar: yes
@@ -40,10 +41,17 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
-          # Plugin: Notable Contributions
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_types: commit
+      # Right Column: Activity, Community, Repositories, Starred, Followers
+      - name: Right Column Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: Theeraphat-S
+          template: classic
+          base: activity, community, repositories
+          config_timezone: Asia/Bangkok
+          filename: assets/github-metrics-right.svg
+          config_order: base.activity, base.community, base.repositories, stars, people
 
           # Plugin: Recently Starred
           plugin_stars: yes
