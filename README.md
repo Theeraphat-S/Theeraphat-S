@@ -15,35 +15,6 @@
 
 ---
 
-## 👨‍💻 Engineering Profile
-
-```yaml
-identity:
-  nickname: Oven >///<
-  current_role: Mobile Developer
-  education:
-    degree: B.Sc. in Information Technology
-    institution: Maejo University
-
-core_expertise:
-  mobile:
-    - Flutter & Dart
-    - BLoC Architecture & Clean Architecture
-    - iOS & Android Store Deployment
-  backend_api:
-    - Go (Golang)
-    - Java (Spring Boot)
-    - RESTful APIs & Firebase Integration
-  databases:
-    - MySQL & Relational Database Design
-
-engineering_philosophy: >
-  "Building robust mobile experiences with scalable architectures,
-   clean code discipline, and delightful user interactions."
-```
-
----
-
 ## 🚀 Flagship Production Projects
 
 <div align="center">
@@ -111,30 +82,20 @@ engineering_philosophy: >
 
 ---
 
-## ⚡ Engineering Highlights & Production Impact
+## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📱 Production Super App Delivery</h3>
-      <p>Shipped and maintaining <strong>Pinto App</strong> across <strong>iOS (App Store)</strong> and <strong>Android (Google Play)</strong>, serving daily users and vendor services with smooth UI performance.</p><br/>
-    </td>
-    <td width="50%">
-      <h3>🏗️ Architecture & State Management</h3>
-      <p>Architecting scalable Flutter codebases using <strong>BLoC pattern</strong>, decoupled dependency injection, and clean layer separation for maximum testability.</p><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔌 End-to-End API Integration</h3>
-      <p>Bridging mobile frontends with robust backends built in <strong>Go</strong> and <strong>Spring Boot</strong>, real-time messaging via <strong>Firebase</strong>, and relational data modeling with <strong>MySQL</strong>.</p><br/>
-    </td>
-    <td width="50%">
-      <h3>🚀 Continuous Innovation</h3>
-      <p>Constantly refining cross-platform rendering performance, automated build pipelines, and cloud-native backend patterns.</p><br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Theeraphat-S&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="175" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📉 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theeraphat-S&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
 
 ---
 
