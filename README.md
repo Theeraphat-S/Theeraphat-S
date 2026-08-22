@@ -19,7 +19,7 @@
 
 ```yaml
 identity:
-  nickname: Oven
+  nickname: Oven >///<
   current_role: Mobile Developer
   education:
     degree: B.Sc. in Information Technology
