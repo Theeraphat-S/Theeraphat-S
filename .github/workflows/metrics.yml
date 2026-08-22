@@ -75,7 +75,7 @@ jobs:
       - name: Download GitHub Stats & Streak SVGs
         run: |
           mkdir -p assets
-          curl -s -f "https://github-stats-extended.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" -o assets/github-stats.svg || echo "Failed to download stats"
+          curl -s -f "https://github-stats-extended.vercel.app/api?username=Theeraphat-S&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" -o assets/github-stats.svg || echo "Failed to download stats"
           curl -s -f "https://streak-stats.demolab.com/?user=Theeraphat-S&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" -o assets/github-streak.svg || echo "Failed to download streak"
 
       - name: Commit and push changes

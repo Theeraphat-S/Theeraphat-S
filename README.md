@@ -90,10 +90,16 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="assets/github-stats.svg" height="175" alt="GitHub Stats" />
-  <img src="assets/github-streak.svg" height="175" alt="GitHub Streak" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="assets/github-stats.svg" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="assets/github-streak.svg" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
