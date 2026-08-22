@@ -91,8 +91,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="175" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Theeraphat-S&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="175" alt="GitHub Streak" />
+  <img src="assets/github-stats.svg" height="175" alt="GitHub Stats" />
+  <img src="assets/github-streak.svg" height="175" alt="GitHub Streak" />
 </div>
 
 ---

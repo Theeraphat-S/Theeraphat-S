@@ -62,3 +62,31 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers
+
+  github-stats:
+    needs: github-metrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download GitHub Stats & Streak SVGs
+        run: |
+          mkdir -p assets
+          curl -s -f "https://github-stats-extended.vercel.app/api?username=Theeraphat-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" -o assets/github-stats.svg || echo "Failed to download stats"
+          curl -s -f "https://streak-stats.demolab.com/?user=Theeraphat-S&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" -o assets/github-streak.svg || echo "Failed to download streak"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add assets/github-stats.svg assets/github-streak.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update GitHub stats and streak SVGs [skip ci]"
+            git push
+          else
+            echo "No changes in stats SVGs"
+          fi
