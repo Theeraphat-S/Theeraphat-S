@@ -114,14 +114,14 @@ engineering_philosophy: >
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Theeraphat-S&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Theeraphat-S&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide=scss,css,html&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+<img src="assets/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
+
 
 <!-- Footer -->
 <div align="center">
