@@ -61,26 +61,50 @@ engineering_philosophy: >
 
 <div align="center">
 
-### Mobile & Frontend
+### Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,ts,js,go,java&theme=dark" />
 </a>
 
 <br/>
 
-### Backend, Database & Cloud
+### Frontend
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,java,spring,mysql,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,html,css&theme=dark" />
 </a>
 
 <br/>
 
-### Tooling, Workflow & Architecture
+### Backend
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,firebase,docker,cloudflare,swagger&theme=dark" />
+</a>
+
+<br/>
+
+### Database
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,sqlite&theme=dark" />
+</a>
+
+<br/>
+
+### Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,godot&theme=dark" />
+</a>
+
+<br/>
+
+### Others
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,discord,linkedin,windows&theme=dark" />
 </a>
 
 </div>
