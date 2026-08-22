@@ -14,7 +14,7 @@
 <br/>
 
 <a href="https://github.com/Theeraphat-S">
-  <img src="assets/profile-card.svg" alt="Theeraphat Srimontha Profile Card" width="380" />
+  <img src="assets/my-profile.svg" alt="Theeraphat Srimontha Profile Card" width="380" />
 </a>
 
 </div>
