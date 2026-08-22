@@ -7,27 +7,39 @@
       <stop offset="100%" stop-color="#090d12"/>
     </linearGradient>
 
-    <!-- Banner Gradient -->
+    <!-- Banner Gradient: Cyber Blue & Deep Navy -->
     <linearGradient id="banner-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3b82f6"/>
-      <stop offset="35%" stop-color="#8b5cf6"/>
-      <stop offset="70%" stop-color="#ec4899"/>
-      <stop offset="100%" stop-color="#06b6d4"/>
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="30%" stop-color="#162b4d"/>
+      <stop offset="70%" stop-color="#1f6feb"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
 
-    <!-- Glow Effect -->
+    <!-- TS Monogram Gradient -->
+    <linearGradient id="ts-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a5f3fc"/>
+    </linearGradient>
+
+    <!-- Avatar Inner Background Gradient -->
+    <linearGradient id="avatar-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <!-- Glow Effects -->
     <filter id="avatar-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#58a6ff" flood-opacity="0.35"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#38bdf8" flood-opacity="0.4"/>
+    </filter>
+
+    <filter id="ts-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#58a6ff" flood-opacity="0.6"/>
     </filter>
 
     <filter id="pill-shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.5"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.6"/>
     </filter>
-
-    <!-- Avatar Clip -->
-    <clipPath id="avatar-clip">
-      <rect x="24" y="24" width="100" height="100" rx="22" ry="22"/>
-    </clipPath>
 
     <!-- Card Clip -->
     <clipPath id="card-clip">
@@ -36,7 +48,7 @@
 
     <!-- Pattern -->
     <pattern id="banner-pattern" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M0 12 L12 0 L24 12 L12 24 Z" fill="none" stroke="rgba(255,255,255,0.07)" stroke-width="1.5"/>
+      <path d="M0 12 L12 0 L24 12 L12 24 Z" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
     </pattern>
   </defs>
 
@@ -48,6 +60,7 @@
     .stat-lbl { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; font-size: 10px; fill: #8b949e; text-anchor: middle; }
     .tag { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace; font-weight: 500; font-size: 11.5px; fill: #e6edf3; }
     .footer-brand { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 13px; fill: #58a6ff; }
+    .ts-logo { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif; font-weight: 900; font-size: 48px; letter-spacing: -2px; }
   </style>
 
   <!-- Main Card Base -->
@@ -55,19 +68,28 @@
     <!-- Background -->
     <rect width="400" height="560" fill="url(#card-bg)"/>
 
-    <!-- Top Mesh Banner -->
+    <!-- Top Mesh Banner (Cyber Blue Theme) -->
     <rect width="400" height="195" fill="url(#banner-grad)"/>
     <rect width="400" height="195" fill="url(#banner-pattern)"/>
 
-    <!-- Banner Overlay Gradient for Depth -->
-    <rect width="400" height="195" fill="url(#card-bg)" opacity="0.15"/>
+    <!-- Subtle Wave Glow Overlay -->
+    <circle cx="360" cy="50" r="120" fill="#38bdf8" opacity="0.15"/>
+    <circle cx="10" cy="180" r="100" fill="#1f6feb" opacity="0.2"/>
 
-    <!-- Avatar Container -->
-    <g filter="url(#avatar-glow)">
-      <!-- Outer White Glow Border -->
-      <rect x="22" y="22" width="104" height="104" rx="24" ry="24" fill="none" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9"/>
-      <!-- Avatar Image -->
-      <image href="https://github.com/Theeraphat-S.png" x="24" y="24" width="100" height="100" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip)"/>
+    <!-- Avatar Container (TS Monogram) -->
+    <g filter="url(#avatar-glow)" transform="translate(24, 24)">
+      <!-- Avatar Box Outer Border -->
+      <rect width="100" height="100" rx="24" ry="24" fill="url(#avatar-bg)" stroke="#ffffff" stroke-width="2.5" stroke-opacity="0.85"/>
+      <rect width="100" height="100" rx="24" ry="24" fill="#38bdf8" opacity="0.08"/>
+      
+      <!-- Tech Corner Accents inside Avatar -->
+      <circle cx="16" cy="16" r="2.5" fill="#38bdf8" opacity="0.8"/>
+      <circle cx="84" cy="84" r="2.5" fill="#58a6ff" opacity="0.8"/>
+
+      <!-- TS Monogram Letters -->
+      <g filter="url(#ts-glow)">
+        <text class="ts-logo" x="50" y="66" text-anchor="middle" fill="url(#ts-grad)">TS</text>
+      </g>
     </g>
 
     <!-- Stats Bar (Floating Glass Pill) -->
@@ -78,7 +100,6 @@
       <g transform="translate(76, 172)">
         <text class="stat-val" y="0">2+ Apps</text>
         <g transform="translate(-32, 10)">
-          <!-- Rocket / Production Icon -->
           <circle cx="0" cy="4" r="6" fill="#58a6ff" fill-opacity="0.2"/>
           <path d="M-3 4 L0 1 L3 4 L1 4 L1 7 L-1 7 L-1 4 Z" fill="#58a6ff"/>
           <text class="stat-lbl" x="32" y="7">Production</text>
@@ -91,9 +112,9 @@
       <g transform="translate(200, 172)">
         <text class="stat-val" y="0">Super App</text>
         <g transform="translate(-34, 10)">
-          <!-- Flame / Architecture Icon -->
-          <circle cx="0" cy="4" r="6" fill="#ec4899" fill-opacity="0.2"/>
-          <path d="M0 1 C-2 3 -2 5 0 7 C2 5 2 3 0 1 Z" fill="#ec4899"/>
+          <!-- Cyan / Blue Architecture Icon -->
+          <circle cx="0" cy="4" r="6" fill="#38bdf8" fill-opacity="0.2"/>
+          <path d="M0 1 C-2 3 -2 5 0 7 C2 5 2 3 0 1 Z" fill="#38bdf8"/>
           <text class="stat-lbl" x="34" y="7">Architecture</text>
         </g>
       </g>
@@ -104,7 +125,6 @@
       <g transform="translate(324, 172)">
         <text class="stat-val" y="0">Flutter &amp; Go</text>
         <g transform="translate(-30, 10)">
-          <!-- Target / Core Icon -->
           <circle cx="0" cy="4" r="6" fill="#3fb950" fill-opacity="0.2"/>
           <circle cx="0" cy="4" r="2.5" fill="#3fb950"/>
           <text class="stat-lbl" x="30" y="7">Core Stack</text>
