@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/Status-Active_Developer-0d1117?style=flat-square&logo=statuspage&logoColor=3fb950" alt="Status" />
 </p>
 
+<br/>
+
+<a href="https://github.com/Theeraphat-S">
+  <img src="assets/profile-card.svg" alt="Theeraphat Srimontha Profile Card" width="380" />
+</a>
+
 </div>
 
 ---
