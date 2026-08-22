@@ -92,11 +92,14 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="33.3%" align="center" valign="middle">
       <img src="assets/github-stats.svg" width="100%" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center" valign="middle">
+    <td width="33.3%" align="center" valign="middle">
       <img src="assets/github-streak.svg" width="100%" alt="GitHub Streak" />
+    </td>
+    <td width="33.3%" align="center" valign="middle">
+      <img src="assets/github-languages.svg" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
