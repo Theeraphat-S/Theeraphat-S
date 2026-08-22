@@ -118,7 +118,7 @@ engineering_philosophy: >
 
 <div align="center">
 
-<img src="assets/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="assets/github-metrics.svg" alt="GitHub Metrics" width="80%" />
 
 </div>
 
