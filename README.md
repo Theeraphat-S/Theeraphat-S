@@ -64,7 +64,7 @@ engineering_philosophy: >
 ### Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dart,ts,js,go,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,ts,js,go,java,cpp,ruby,bash&theme=dark" />
 </a>
 
 <br/>
@@ -80,7 +80,7 @@ engineering_philosophy: >
 ### Backend
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,firebase,docker,cloudflare,swagger&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,firebase,docker,cloudflare,swagger&theme=dark" />
 </a>
 
 <br/>
@@ -88,7 +88,7 @@ engineering_philosophy: >
 ### Database
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=supabase,mysql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite&theme=dark" />
 </a>
 
 <br/>
@@ -96,7 +96,7 @@ engineering_philosophy: >
 ### Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,godot&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,godot,cmake&theme=dark" />
 </a>
 
 <br/>
