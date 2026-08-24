@@ -73,7 +73,7 @@
 ### Tools & Platforms
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,androidstudio,eclipse,unity,godot,robloxstudio,ubuntu,postman,cmake&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,androidstudio,eclipse,unity,godot,robloxstudio,ubuntu,postman,swagger,cmake&theme=dark" />
 </a>
 
 <br/>
