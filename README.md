@@ -73,7 +73,11 @@
 ### Tools & Platforms
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,androidstudio,eclipse,unity,godot,robloxstudio,ubuntu,postman,swagger,cmake&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,androidstudio,eclipse,unity,godot,robloxstudio,ubuntu,postman&theme=dark" align="center" />
+</a>
+<img src="assets/swagger.svg" width="48" height="48" alt="Swagger" align="center" style="vertical-align: middle; margin: 0 2px;" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cmake&theme=dark" align="center" />
 </a>
 
 <br/>
