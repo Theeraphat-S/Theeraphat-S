@@ -41,23 +41,23 @@
 ### Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dart,ts,js,go,java,cpp,ruby,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,ts,js,go,java,kotlin,py,cpp,c,cs,ruby,bash&theme=dark" />
 </a>
 
 <br/>
 
-### Frontend
+### Frontend & Cross-Platform
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,react,vue,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,tauri,wordpress,html,css&theme=dark" />
 </a>
 
 <br/>
 
-### Backend
+### Backend & Cloud
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,firebase,docker,cloudflare,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,firebase,docker,cloudflare,azure&theme=dark" />
 </a>
 
 <br/>
@@ -70,18 +70,18 @@
 
 <br/>
 
-### Tools
+### Tools & Platforms
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,godot,cmake&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,androidstudio,eclipse,unity,godot,robloxstudio,ubuntu,postman,cmake&theme=dark" />
 </a>
 
 <br/>
 
-### Others
+### Others & Social
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,discord,linkedin,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,discord,instagram,linkedin,gmail,windows&theme=dark" />
 </a>
 
 </div>
