@@ -57,7 +57,7 @@
 ### Backend
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,firebase,docker,cloudflare,swagger&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,firebase,docker,cloudflare,express&theme=dark" />
 </a>
 
 <br/>
