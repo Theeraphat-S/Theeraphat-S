@@ -135,7 +135,7 @@
       </g>
 
       <!-- Full Name -->
-      <text class="font-name" x="0" y="47" fill="url(#name-grad)">Theeraphat Srimontha</text>
+      <text class="font-name" x="0" y="47" fill="url(#name-grad)">Theeraphat Srimontha (Oven)</text>
 
       <!-- Role & Super App Headline -->
       <text class="font-role" x="0" y="66" fill="url(#role-grad)">Mobile Developer | Super App &amp; Cross-Platform Engineer</text>
@@ -189,16 +189,9 @@
       <line x1="0" y1="0" x2="442" y2="0" stroke="#21262d" stroke-width="1"/>
       
       <g transform="translate(0, 24)">
-        <!-- Location -->
+        <!-- Role / Focus Title -->
         <g transform="translate(0, 0)">
-          <path d="M4 1 C2.34 1 1 2.34 1 4 C1 6.5 4 10 4 10 C4 10 7 6.5 7 4 C7 2.34 5.66 1 4 1 Z M4 5.2 C3.34 5.2 2.8 4.66 2.8 4 C2.8 3.34 3.34 2.8 4 2.8 C4.66 2.8 5.2 3.34 5.2 4 C5.2 4.66 4.66 5.2 4 5.2 Z" fill="#8b949e"/>
-          <text class="font-footer" x="13" y="8">Bangkok, Thailand</text>
-        </g>
-        
-        <!-- Focus Bullet -->
-        <g transform="translate(130, 0)">
-          <circle cx="3" cy="4" r="2" fill="#58a6ff"/>
-          <text class="font-footer" x="11" y="8">Full-Stack Mobile Engineer</text>
+          <text class="font-footer" x="0" y="8">Full-Stack Mobile Engineer</text>
         </g>
 
         <!-- Signature Domain -->

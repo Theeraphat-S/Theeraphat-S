@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/Theeraphat-S">
-  <img src="assets/my-profile.svg" alt="Theeraphat Srimontha - Mobile Developer &amp; Super App Engineer" width="100%" />
+  <img src="assets/my-profile.svg" alt="Theeraphat Srimontha (Oven) - Mobile Developer &amp; Super App Engineer" width="100%" />
 </a>
 
 </div>
