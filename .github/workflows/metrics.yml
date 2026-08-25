@@ -78,7 +78,7 @@ jobs:
           github_user_name: Theeraphat-S
           outputs: |
             assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark&color_snake=#58a6ff
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=dodgerblue
 
       - name: Download GitHub Stats, Streak & Languages SVGs
         run: |
@@ -91,11 +91,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
-          git add assets/
+          git pull --rebase origin main
+          git add assets/github-stats.svg assets/github-streak.svg assets/github-languages.svg assets/github-snake.svg assets/github-snake-dark.svg
           if ! git diff --cached --quiet; then
             git commit -m "chore: update GitHub stats, streak, snake and languages SVGs [skip ci]"
-            git push
+            git push origin main
           else
             echo "No changes in stats SVGs"
           fi
