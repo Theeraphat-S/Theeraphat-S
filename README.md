@@ -1,16 +1,8 @@
 <!-- Header -->
 <div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Theeraphat-S&style=flat-square&color=58a6ff&label=Profile+Views" alt="profile views" />
-  <img src="https://img.shields.io/badge/Role-Mobile_Developer-0d1117?style=flat-square&logo=flutter&logoColor=58a6ff" alt="Role" />
-  <img src="https://img.shields.io/badge/Status-Active_Developer-0d1117?style=flat-square&logo=statuspage&logoColor=3fb950" alt="Status" />
-</p>
-
-<br/>
-
 <a href="https://github.com/Theeraphat-S">
-  <img src="assets/my-profile.svg" alt="Theeraphat Srimontha Profile Card" width="380" />
+  <img src="assets/my-profile.svg" alt="Theeraphat Srimontha - Mobile Developer &amp; Super App Engineer" width="100%" />
 </a>
 
 </div>

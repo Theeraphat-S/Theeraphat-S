@@ -1,236 +1,298 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" width="400" height="560" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 310" width="850" height="310" fill="none">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#161b22"/>
-      <stop offset="50%" stop-color="#0e131a"/>
-      <stop offset="100%" stop-color="#090d12"/>
+    <!-- Background Canvas Gradient -->
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e131b"/>
+      <stop offset="50%" stop-color="#0a0d13"/>
+      <stop offset="100%" stop-color="#06080c"/>
     </linearGradient>
 
-    <!-- Banner Gradient: Cyber Blue & Deep Navy -->
-    <linearGradient id="banner-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="30%" stop-color="#162b4d"/>
-      <stop offset="70%" stop-color="#1f6feb"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
+    <!-- Border Gradient -->
+    <linearGradient id="card-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="40%" stop-color="#1f6feb" stop-opacity="0.3"/>
+      <stop offset="80%" stop-color="#30363d" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#238636" stop-opacity="0.4"/>
     </linearGradient>
 
     <!-- TS Monogram Gradient -->
     <linearGradient id="ts-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#79c0ff"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+
+    <!-- Text Name Gradient -->
+    <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#f0f6fc"/>
+      <stop offset="100%" stop-color="#79c0ff"/>
+    </linearGradient>
+
+    <!-- Role Gradient -->
+    <linearGradient id="role-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="50%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#a5f3fc"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
 
-    <!-- Avatar Inner Background Gradient -->
-    <linearGradient id="avatar-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#161b22"/>
-      <stop offset="100%" stop-color="#0d1117"/>
+    <!-- Glass Cards Background Gradient -->
+    <linearGradient id="glass-card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.95"/>
     </linearGradient>
 
-    <!-- Glow Effects -->
-    <filter id="avatar-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#38bdf8" flood-opacity="0.4"/>
+    <!-- Glow Filters -->
+    <filter id="cyan-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="35" result="blur"/>
+    </filter>
+    <filter id="blue-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="45" result="blur"/>
+    </filter>
+    <filter id="emerald-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+    </filter>
+    
+    <filter id="avatar-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#1f6feb" flood-opacity="0.35"/>
     </filter>
 
-    <filter id="ts-glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#58a6ff" flood-opacity="0.6"/>
+    <filter id="badge-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#3fb950" flood-opacity="0.6"/>
     </filter>
 
-    <filter id="pill-shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.6"/>
-    </filter>
-
-    <!-- Card Clip -->
-    <clipPath id="card-clip">
-      <rect width="400" height="560" rx="28" ry="28"/>
-    </clipPath>
-
-    <!-- Pattern -->
-    <pattern id="banner-pattern" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M0 12 L12 0 L24 12 L12 24 Z" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+    <!-- Background Grid Pattern -->
+    <pattern id="tech-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#30363d" stroke-width="0.75" stroke-opacity="0.25"/>
+      <circle cx="28" cy="28" r="0.75" fill="#58a6ff" fill-opacity="0.2"/>
     </pattern>
+
+    <!-- Clip Path for outer card -->
+    <clipPath id="card-clip">
+      <rect width="850" height="310" rx="20" ry="20"/>
+    </clipPath>
   </defs>
 
   <style>
-    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 22px; fill: #ffffff; }
-    .handle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; font-size: 13px; fill: #8b949e; }
-    .bio { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; font-size: 13.5px; fill: #c9d1d9; line-height: 1.5; }
-    .stat-val { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 15px; fill: #f0f6fc; text-anchor: middle; }
-    .stat-lbl { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; font-size: 10px; fill: #8b949e; text-anchor: middle; }
-    .tag { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace; font-weight: 500; font-size: 11.5px; fill: #e6edf3; }
-    .footer-brand { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 13px; fill: #58a6ff; }
-    .ts-logo { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif; font-weight: 900; font-size: 48px; letter-spacing: -2px; }
+    .font-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 800; font-size: 23px; }
+    .font-role { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 13.5px; }
+    .font-bio { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; font-size: 12.5px; fill: #8b949e; line-height: 1.5; }
+    .font-tag { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Fira Code', monospace; font-weight: 500; font-size: 11px; }
+    .font-stat-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 14px; fill: #f0f6fc; }
+    .font-stat-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; font-size: 11.5px; fill: #8b949e; }
+    .font-stat-badge { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace; font-weight: 700; font-size: 9.5px; letter-spacing: 0.5px; }
+    .font-status { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 10.5px; fill: #3fb950; }
+    .font-footer { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; font-size: 11.5px; fill: #6e7681; }
+    .font-brand { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 12px; fill: #58a6ff; }
+    .ts-logo { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif; font-weight: 900; font-size: 34px; letter-spacing: -1px; }
   </style>
 
-  <!-- Main Card Base -->
+  <!-- Card Canvas -->
   <g clip-path="url(#card-clip)">
-    <!-- Background -->
-    <rect width="400" height="560" fill="url(#card-bg)"/>
+    <!-- Base Background -->
+    <rect width="850" height="310" fill="url(#canvas-bg)"/>
 
-    <!-- Top Mesh Banner (Cyber Blue Theme) -->
-    <rect width="400" height="195" fill="url(#banner-grad)"/>
-    <rect width="400" height="195" fill="url(#banner-pattern)"/>
+    <!-- Subtle Tech Grid -->
+    <rect width="850" height="310" fill="url(#tech-grid)"/>
 
-    <!-- Subtle Wave Glow Overlay -->
-    <circle cx="360" cy="50" r="120" fill="#38bdf8" opacity="0.15"/>
-    <circle cx="10" cy="180" r="100" fill="#1f6feb" opacity="0.2"/>
+    <!-- Ambient Glowing Spheres -->
+    <circle cx="80" cy="40" r="130" fill="#1f6feb" opacity="0.22" filter="url(#blue-glow)"/>
+    <circle cx="420" cy="180" r="120" fill="#38bdf8" opacity="0.12" filter="url(#cyan-glow)"/>
+    <circle cx="820" cy="60" r="110" fill="#238636" opacity="0.18" filter="url(#emerald-glow)"/>
+    <circle cx="800" cy="270" r="100" fill="#1f6feb" opacity="0.15" filter="url(#blue-glow)"/>
+
+    <!-- Top Left Accent Line -->
+    <line x1="28" y1="1" x2="160" y2="1" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- ==================== LEFT COLUMN: Identity & Bio ==================== -->
 
     <!-- Avatar Container (TS Monogram) -->
-    <g filter="url(#avatar-glow)" transform="translate(24, 24)">
-      <!-- Avatar Box Outer Border -->
-      <rect width="100" height="100" rx="24" ry="24" fill="url(#avatar-bg)" stroke="#ffffff" stroke-width="2.5" stroke-opacity="0.85"/>
-      <rect width="100" height="100" rx="24" ry="24" fill="#38bdf8" opacity="0.08"/>
+    <g transform="translate(30, 26)" filter="url(#avatar-shadow)">
+      <rect width="72" height="72" rx="18" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+      <rect width="72" height="72" rx="18" fill="#1f6feb" opacity="0.08"/>
       
-      <!-- Tech Corner Accents inside Avatar -->
-      <circle cx="16" cy="16" r="2.5" fill="#38bdf8" opacity="0.8"/>
-      <circle cx="84" cy="84" r="2.5" fill="#58a6ff" opacity="0.8"/>
-
-      <!-- TS Monogram Letters -->
-      <g filter="url(#ts-glow)">
-        <text class="ts-logo" x="50" y="66" text-anchor="middle" fill="url(#ts-grad)">TS</text>
-      </g>
-    </g>
-
-    <!-- Stats Bar (Floating Glass Pill) -->
-    <g filter="url(#pill-shadow)">
-      <rect x="20" y="152" width="360" height="66" rx="16" ry="16" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+      <!-- Tech Corner Dots -->
+      <circle cx="12" cy="12" r="1.8" fill="#38bdf8" opacity="0.7"/>
+      <circle cx="60" cy="60" r="1.8" fill="#58a6ff" opacity="0.7"/>
       
-      <!-- Stat 1: Live Apps -->
-      <g transform="translate(76, 172)">
-        <text class="stat-val" y="0">2+ Apps</text>
-        <g transform="translate(-32, 10)">
-          <circle cx="0" cy="4" r="6" fill="#58a6ff" fill-opacity="0.2"/>
-          <path d="M-3 4 L0 1 L3 4 L1 4 L1 7 L-1 7 L-1 4 Z" fill="#58a6ff"/>
-          <text class="stat-lbl" x="32" y="7">Production</text>
-        </g>
-      </g>
-
-      <line x1="140" y1="164" x2="140" y2="206" stroke="#21262d" stroke-width="1.2"/>
-
-      <!-- Stat 2: Super App -->
-      <g transform="translate(200, 172)">
-        <text class="stat-val" y="0">Super App</text>
-        <g transform="translate(-34, 10)">
-          <!-- Cyan / Blue Architecture Icon -->
-          <circle cx="0" cy="4" r="6" fill="#38bdf8" fill-opacity="0.2"/>
-          <path d="M0 1 C-2 3 -2 5 0 7 C2 5 2 3 0 1 Z" fill="#38bdf8"/>
-          <text class="stat-lbl" x="34" y="7">Architecture</text>
-        </g>
-      </g>
-
-      <line x1="260" y1="164" x2="260" y2="206" stroke="#21262d" stroke-width="1.2"/>
-
-      <!-- Stat 3: Core Stack -->
-      <g transform="translate(324, 172)">
-        <text class="stat-val" y="0">Flutter &amp; Go</text>
-        <g transform="translate(-30, 10)">
-          <circle cx="0" cy="4" r="6" fill="#3fb950" fill-opacity="0.2"/>
-          <circle cx="0" cy="4" r="2.5" fill="#3fb950"/>
-          <text class="stat-lbl" x="30" y="7">Core Stack</text>
-        </g>
-      </g>
+      <!-- Monogram -->
+      <text class="ts-logo" x="36" y="48" text-anchor="middle" fill="url(#ts-grad)">TS</text>
     </g>
 
-    <!-- Profile Identity -->
-    <g transform="translate(24, 252)">
-      <text class="title" x="0" y="0">Theeraphat Srimontha</text>
-      <text class="handle" x="0" y="20">@Theeraphat-S <tspan fill="#484f58">•</tspan> Mobile &amp; Super-App Engineer</text>
+    <!-- Header Title & Role -->
+    <g transform="translate(116, 28)">
+      <!-- Status Badge Pill -->
+      <g transform="translate(0, 0)">
+        <rect width="138" height="22" rx="11" fill="#0d1117" stroke="#238636" stroke-width="1"/>
+        <circle cx="11" cy="11" r="3.5" fill="#3fb950" filter="url(#badge-glow)"/>
+        <circle cx="11" cy="11" r="1.8" fill="#ffffff"/>
+        <text class="font-status" x="22" y="14.5">Active Developer</text>
+      </g>
+
+      <!-- GitHub Handle Tag -->
+      <g transform="translate(146, 0)">
+        <rect width="112" height="22" rx="11" fill="#161b22" stroke="#30363d" stroke-width="0.8"/>
+        <text class="font-footer" x="56" y="14.5" text-anchor="middle" fill="#8b949e">@Theeraphat-S</text>
+      </g>
+
+      <!-- Full Name -->
+      <text class="font-name" x="0" y="47" fill="url(#name-grad)">Theeraphat Srimontha</text>
+
+      <!-- Role & Super App Headline -->
+      <text class="font-role" x="0" y="66" fill="url(#role-grad)">Mobile Developer | Super App &amp; Cross-Platform Engineer</text>
     </g>
 
-    <!-- Bio Description -->
-    <g transform="translate(24, 302)">
-      <text class="bio" x="0" y="0">
-        <tspan x="0" dy="0">👋 Hey! I'm a Mobile Developer building scalable</tspan>
-        <tspan x="0" dy="21">production super-apps, cross-platform Flutter experiences,</tspan>
-        <tspan x="0" dy="21">and resilient Go &amp; Spring Boot backend microservices.</tspan>
+    <!-- Bio Statement -->
+    <g transform="translate(30, 126)">
+      <text class="font-bio" x="0" y="0">
+        <tspan x="0" dy="0">Crafting high-concurrency production super-apps, fluid Flutter experiences,</tspan>
+        <tspan x="0" dy="19">and resilient cloud-native backend microservices with Go &amp; Spring Boot.</tspan>
       </text>
     </g>
 
-    <!-- Hashtag Badges -->
-    <g transform="translate(24, 385)">
-      <!-- Row 1 -->
-      <!-- #flutter -->
+    <!-- Tech Stack Tag Chips -->
+    <g transform="translate(30, 178)">
+      <!-- #Flutter -->
       <g transform="translate(0, 0)">
-        <rect width="84" height="28" rx="8" ry="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-        <text class="tag" x="42" y="18" text-anchor="middle">#flutter</text>
+        <rect width="76" height="24" rx="6" fill="#161b22" stroke="#1f6feb" stroke-width="0.9" stroke-opacity="0.6"/>
+        <circle cx="10" cy="12" r="2.5" fill="#54c5f8"/>
+        <text class="font-tag" x="18" y="15.5" fill="#79c0ff">#flutter</text>
       </g>
-      <!-- #superapp -->
-      <g transform="translate(92, 0)">
-        <rect width="96" height="28" rx="8" ry="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-        <text class="tag" x="48" y="18" text-anchor="middle">#superapp</text>
+      <!-- #SuperApp -->
+      <g transform="translate(82, 0)">
+        <rect width="88" height="24" rx="6" fill="#161b22" stroke="#8957e5" stroke-width="0.9" stroke-opacity="0.6"/>
+        <circle cx="10" cy="12" r="2.5" fill="#d2a8ff"/>
+        <text class="font-tag" x="18" y="15.5" fill="#d2a8ff">#superapp</text>
       </g>
-      <!-- #mobiledev -->
-      <g transform="translate(196, 0)">
-        <rect width="102" height="28" rx="8" ry="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-        <text class="tag" x="51" y="18" text-anchor="middle">#mobiledev</text>
+      <!-- #Golang -->
+      <g transform="translate(176, 0)">
+        <rect width="74" height="24" rx="6" fill="#161b22" stroke="#00add8" stroke-width="0.9" stroke-opacity="0.6"/>
+        <circle cx="10" cy="12" r="2.5" fill="#00add8"/>
+        <text class="font-tag" x="18" y="15.5" fill="#7ee787">#golang</text>
       </g>
-      <!-- #dart -->
-      <g transform="translate(306, 0)">
-        <rect width="46" height="28" rx="8" ry="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-        <text class="tag" x="23" y="18" text-anchor="middle">#dart</text>
+      <!-- #SpringBoot -->
+      <g transform="translate(256, 0)">
+        <rect width="98" height="24" rx="6" fill="#161b22" stroke="#238636" stroke-width="0.9" stroke-opacity="0.6"/>
+        <circle cx="10" cy="12" r="2.5" fill="#3fb950"/>
+        <text class="font-tag" x="18" y="15.5" fill="#7ee787">#springboot</text>
       </g>
-
-      <!-- Row 2 -->
-      <!-- #golang -->
-      <g transform="translate(0, 36)">
-        <rect width="80" height="28" rx="8" ry="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-        <text class="tag" x="40" y="18" text-anchor="middle">#golang</text>
-      </g>
-      <!-- #springboot -->
-      <g transform="translate(88, 36)">
-        <rect width="108" height="28" rx="8" ry="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-        <text class="tag" x="54" y="18" text-anchor="middle">#springboot</text>
-      </g>
-      <!-- #crossplatform -->
-      <g transform="translate(204, 36)">
-        <rect width="134" height="28" rx="8" ry="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-        <text class="tag" x="67" y="18" text-anchor="middle">#crossplatform</text>
+      <!-- #CrossPlatform -->
+      <g transform="translate(360, 0)">
+        <rect width="112" height="24" rx="6" fill="#161b22" stroke="#38bdf8" stroke-width="0.9" stroke-opacity="0.6"/>
+        <circle cx="10" cy="12" r="2.5" fill="#38bdf8"/>
+        <text class="font-tag" x="18" y="15.5" fill="#a5f3fc">#crossplatform</text>
       </g>
     </g>
 
-    <!-- Bottom Separator & Footer -->
-    <rect x="0" y="492" width="400" height="68" fill="#0b0f14"/>
-    <line x1="0" y1="492" x2="400" y2="492" stroke="#21262d" stroke-width="1"/>
+    <!-- Bottom Left Metadata Bar -->
+    <g transform="translate(30, 240)">
+      <!-- Divider Line -->
+      <line x1="0" y1="0" x2="442" y2="0" stroke="#21262d" stroke-width="1"/>
+      
+      <g transform="translate(0, 24)">
+        <!-- Location -->
+        <g transform="translate(0, 0)">
+          <path d="M4 1 C2.34 1 1 2.34 1 4 C1 6.5 4 10 4 10 C4 10 7 6.5 7 4 C7 2.34 5.66 1 4 1 Z M4 5.2 C3.34 5.2 2.8 4.66 2.8 4 C2.8 3.34 3.34 2.8 4 2.8 C4.66 2.8 5.2 3.34 5.2 4 C5.2 4.66 4.66 5.2 4 5.2 Z" fill="#8b949e"/>
+          <text class="font-footer" x="13" y="8">Bangkok, Thailand</text>
+        </g>
+        
+        <!-- Focus Bullet -->
+        <g transform="translate(130, 0)">
+          <circle cx="3" cy="4" r="2" fill="#58a6ff"/>
+          <text class="font-footer" x="11" y="8">Full-Stack Mobile Engineer</text>
+        </g>
 
-    <!-- Bottom Tech Mini Badges -->
-    <g transform="translate(24, 514)">
-      <!-- Flutter Icon -->
-      <g transform="translate(0, 0)">
-        <circle cx="12" cy="12" r="12" fill="#02569B" fill-opacity="0.25"/>
-        <path d="M14 6 L8 12 L14 18 L18 18 L12 12 L18 6 Z" fill="#54C5F8" transform="scale(0.8) translate(3, 3)"/>
-      </g>
-      <!-- Go Icon -->
-      <g transform="translate(32, 0)">
-        <circle cx="12" cy="12" r="12" fill="#00ADD8" fill-opacity="0.25"/>
-        <text font-family="-apple-system, sans-serif" font-weight="900" font-size="10" fill="#00ADD8" x="12" y="16" text-anchor="middle">GO</text>
-      </g>
-      <!-- Spring Icon -->
-      <g transform="translate(64, 0)">
-        <circle cx="12" cy="12" r="12" fill="#6DB33F" fill-opacity="0.25"/>
-        <circle cx="12" cy="12" r="5" fill="#6DB33F"/>
-      </g>
-      <!-- React Icon -->
-      <g transform="translate(96, 0)">
-        <circle cx="12" cy="12" r="12" fill="#61DAFB" fill-opacity="0.2"/>
-        <ellipse cx="12" cy="12" rx="7" ry="2.5" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(30 12 12)"/>
-        <ellipse cx="12" cy="12" rx="7" ry="2.5" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(-30 12 12)"/>
-      </g>
-      <!-- Supabase / Postgres Icon -->
-      <g transform="translate(128, 0)">
-        <circle cx="12" cy="12" r="12" fill="#3ECF8E" fill-opacity="0.2"/>
-        <path d="M13 5 L8 13 L12 13 L11 19 L16 11 L12 11 Z" fill="#3ECF8E"/>
+        <!-- Signature Domain -->
+        <g transform="translate(330, 0)">
+          <!-- Sparkle icon -->
+          <path d="M-10 4 L-8 0 L-6 4 L-2 6 L-6 8 L-8 12 L-10 8 L-14 6 Z" fill="#58a6ff"/>
+          <text class="font-brand" x="0" y="8">theeraphat.dev</text>
+        </g>
       </g>
     </g>
 
-    <!-- Bottom Brand Signature -->
-    <g transform="translate(376, 529)" text-anchor="end">
-      <!-- Icon Sparkle -->
-      <path d="M-132 -6 L-129 -14 L-126 -6 L-118 -3 L-126 0 L-129 8 L-132 0 L-140 -3 Z" fill="#58a6ff"/>
-      <text class="footer-brand" x="0" y="0">theeraphat.dev</text>
+    <!-- Vertical Column Separator -->
+    <line x1="495" y1="24" x2="495" y2="286" stroke="#21262d" stroke-width="1" stroke-dasharray="4 4"/>
+
+    <!-- ==================== RIGHT COLUMN: 3 High-Impact Stat Cards ==================== -->
+
+    <!-- Card 1: Production Apps -->
+    <g transform="translate(515, 26)">
+      <rect width="305" height="74" rx="14" fill="url(#glass-card-bg)" stroke="#30363d" stroke-width="1"/>
+      <!-- Subtle top inner glow highlight -->
+      <line x1="14" y1="1" x2="100" y2="1" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.6"/>
+
+      <!-- Icon Box (Phone/Rocket) -->
+      <g transform="translate(12, 13)">
+        <rect width="48" height="48" rx="10" fill="#1f6feb" fill-opacity="0.15" stroke="#58a6ff" stroke-width="0.8"/>
+        <!-- App Icon Graphic -->
+        <rect x="16" y="10" width="16" height="28" rx="3" fill="none" stroke="#58a6ff" stroke-width="1.6"/>
+        <line x1="21" y1="34" x2="27" y2="34" stroke="#58a6ff" stroke-width="1.6" stroke-linecap="round"/>
+        <circle cx="24" cy="14" r="1" fill="#58a6ff"/>
+      </g>
+
+      <!-- Card Texts -->
+      <text class="font-stat-title" x="70" y="32">2+ Production Apps</text>
+      <text class="font-stat-sub" x="70" y="51">Pinto Super App &amp; Clinical Healthcare</text>
+
+      <!-- Badge -->
+      <g transform="translate(244, 14)">
+        <rect width="48" height="18" rx="4" fill="#238636" fill-opacity="0.2" stroke="#238636" stroke-width="0.8"/>
+        <text class="font-stat-badge" x="24" y="12.5" text-anchor="middle" fill="#3fb950">LIVE</text>
+      </g>
     </g>
 
-    <!-- Outer Card Border -->
-    <rect width="400" height="560" rx="28" ry="28" fill="none" stroke="#30363d" stroke-width="1.5"/>
+    <!-- Card 2: Super App Architecture -->
+    <g transform="translate(515, 115)">
+      <rect width="305" height="74" rx="14" fill="url(#glass-card-bg)" stroke="#30363d" stroke-width="1"/>
+      <line x1="14" y1="1" x2="100" y2="1" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.6"/>
+
+      <!-- Icon Box (Architecture / Modules) -->
+      <g transform="translate(12, 13)">
+        <rect width="48" height="48" rx="10" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-width="0.8"/>
+        <!-- Architecture Diagram Icon -->
+        <rect x="13" y="13" width="9" height="9" rx="2" fill="#38bdf8"/>
+        <rect x="26" y="13" width="9" height="9" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.4"/>
+        <rect x="13" y="26" width="9" height="9" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.4"/>
+        <rect x="26" y="26" width="9" height="9" rx="2" fill="#38bdf8"/>
+      </g>
+
+      <!-- Card Texts -->
+      <text class="font-stat-title" x="70" y="32">Super App Architecture</text>
+      <text class="font-stat-sub" x="70" y="51">Micro-frontends &amp; High Concurrency</text>
+
+      <!-- Badge -->
+      <g transform="translate(236, 14)">
+        <rect width="56" height="18" rx="4" fill="#38bdf8" fill-opacity="0.15" stroke="#38bdf8" stroke-width="0.8"/>
+        <text class="font-stat-badge" x="28" y="12.5" text-anchor="middle" fill="#38bdf8">SCALE</text>
+      </g>
+    </g>
+
+    <!-- Card 3: Core Stack -->
+    <g transform="translate(515, 204)">
+      <rect width="305" height="74" rx="14" fill="url(#glass-card-bg)" stroke="#30363d" stroke-width="1"/>
+      <line x1="14" y1="1" x2="100" y2="1" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.6"/>
+
+      <!-- Icon Box (Stack / Microservices) -->
+      <g transform="translate(12, 13)">
+        <rect width="48" height="48" rx="10" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-width="0.8"/>
+        <!-- Layer Stack Icon -->
+        <path d="M24 13 L35 19 L24 25 L13 19 Z" fill="none" stroke="#3fb950" stroke-width="1.5"/>
+        <path d="M13 24 L24 30 L35 24" fill="none" stroke="#3fb950" stroke-width="1.5"/>
+        <path d="M13 29 L24 35 L35 29" fill="none" stroke="#3fb950" stroke-width="1.5"/>
+      </g>
+
+      <!-- Card Texts -->
+      <text class="font-stat-title" x="70" y="32">Full-Stack Core</text>
+      <text class="font-stat-sub" x="70" y="51">Flutter • Go • Spring • Supabase</text>
+
+      <!-- Badge -->
+      <g transform="translate(244, 14)">
+        <rect width="48" height="18" rx="4" fill="#8957e5" fill-opacity="0.2" stroke="#8957e5" stroke-width="0.8"/>
+        <text class="font-stat-badge" x="24" y="12.5" text-anchor="middle" fill="#d2a8ff">PRO</text>
+      </g>
+    </g>
+
+    <!-- Outer Gradient Border -->
+    <rect width="850" height="310" rx="20" ry="20" fill="none" stroke="url(#card-border)" stroke-width="1.2"/>
   </g>
 </svg>
