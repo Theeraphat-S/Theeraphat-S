@@ -1,10 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Theeraphat%20Srimontha&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=36&desc=Mobile%20Developer%20%7C%20Super%20App%20%26amp%3B%20Cross-Platform%20Engineer&descSize=16&descAlignY=58&descColor=8b949e" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=680&lines=Mobile+Developer+%E2%80%A2+Flutter+%26+Cross-Platform;Building+scalable+super-app+architectures+%F0%9F%9A%80;Backend+services+with+Go+%26+Spring+Boot;Turning+ideas+into+production-grade+software+%E2%9C%A8)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Theeraphat-S&style=flat-square&color=58a6ff&label=Profile+Views" alt="profile views" />
   <img src="https://img.shields.io/badge/Role-Mobile_Developer-0d1117?style=flat-square&logo=flutter&logoColor=58a6ff" alt="Role" />
