@@ -98,10 +98,14 @@
 
 ---
 
-## 📉 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theeraphat-S&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+    <img alt="Contribution Snake" src="assets/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
