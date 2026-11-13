@@ -1,17 +1,17 @@
-## 🚀 Flagship Production Projects
+## <img src="assets/icon-projects.svg" width="28" height="28" align="center" alt="" /> Flagship Production Projects
 
 <div align="center">
 
 | Project                                                                                                                                                                                    | Overview & Architecture                                                                                                                                                                                  | Platform & Links                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="assets/pinto-logo.png" width="76" height="76" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.25);" /><br/>**Pinto App**<br/><sub>Fakduai Digital Platform</sub> | **Production Super App Platform**<br/>An on-demand super app connecting multi-service workflows, food ordering, and merchant platforms in a unified mobile ecosystem.<br/>                               | [![Google Play](https://img.shields.io/badge/Google_Play-Live-0d1117?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pintoapp.superapp&pcampaignid=web_share)<br/><br/>[![App Store](https://img.shields.io/badge/App_Store-Live-0d1117?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/th/app/pinto/id6754710078?l=th)                                                                                                                                                                                                                                                                                                                                                                            |
-| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="60" height="60" /><br/>**NCD Screening**<br/>                                         | **Mobile Clinical Risk-Assessment Tool**<br/>Specialized healthcare screening application for 4 chronic Non-Communicable Diseases, featuring guided diagnosis flows and clinical record management.<br/> | [![SRS Document](https://img.shields.io/badge/SRS_Document-PDF-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=f43f5e)](https://github.com/Theeraphat-S/Theeraphat-S/blob/main/SRS_%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%204%20%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%87.pdf) |
+| <img src="assets/icon-ncd.svg" width="60" height="60" alt="NCD Screening" /><br/>**NCD Screening**<br/>                                         | **Mobile Clinical Risk-Assessment Tool**<br/>Specialized healthcare screening application for 4 chronic Non-Communicable Diseases, featuring guided diagnosis flows and clinical record management.<br/> | [![SRS Document](https://img.shields.io/badge/SRS_Document-PDF-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=f43f5e)](https://github.com/Theeraphat-S/Theeraphat-S/blob/main/SRS_%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%204%20%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%87.pdf) |
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## <img src="assets/icon-arsenal.svg" width="28" height="28" align="center" alt="" /> Technical Arsenal
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## <img src="assets/icon-stats.svg" width="28" height="28" align="center" alt="" /> GitHub Stats
 
 <table align="center" width="100%">
   <tr>
@@ -87,7 +87,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## <img src="assets/icon-contrib.svg" width="28" height="28" align="center" alt="" /> Contribution Graph
 
 <div align="center">
   <picture>
@@ -99,7 +99,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## <img src="assets/icon-analytics.svg" width="28" height="28" align="center" alt="" /> GitHub Analytics & Activity
 
 <table align="center" width="100%">
   <tr>
@@ -112,6 +112,7 @@
   </tr>
 </table>
 
+<!-- Icons by Lordicon (https://lordicon.com) -->
 <!-- Footer -->
 <div align="center">
 
