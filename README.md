@@ -1,4 +1,4 @@
-## <img src="assets/icon-projects.svg" width="28" height="28" align="center" alt="" /> Flagship Production Projects
+## <img src="assets/icon-projects.svg" width="24" height="24" align="absmiddle" alt="" /> Flagship Production Projects
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 ---
 
-## <img src="assets/icon-arsenal.svg" width="28" height="28" align="center" alt="" /> Technical Arsenal
+## <img src="assets/icon-arsenal.svg" width="24" height="24" align="absmiddle" alt="" /> Technical Arsenal
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
 ---
 
-## <img src="assets/icon-stats.svg" width="28" height="28" align="center" alt="" /> GitHub Stats
+## <img src="assets/icon-stats.svg" width="24" height="24" align="absmiddle" alt="" /> GitHub Stats
 
 <table align="center" width="100%">
   <tr>
@@ -87,7 +87,7 @@
 
 ---
 
-## <img src="assets/icon-contrib.svg" width="28" height="28" align="center" alt="" /> Contribution Graph
+## <img src="assets/icon-contrib.svg" width="24" height="24" align="absmiddle" alt="" /> Contribution Graph
 
 <div align="center">
   <picture>
@@ -99,7 +99,7 @@
 
 ---
 
-## <img src="assets/icon-analytics.svg" width="28" height="28" align="center" alt="" /> GitHub Analytics & Activity
+## <img src="assets/icon-analytics.svg" width="24" height="24" align="absmiddle" alt="" /> GitHub Analytics & Activity
 
 <table align="center" width="100%">
   <tr>
