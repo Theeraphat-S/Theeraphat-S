@@ -112,7 +112,7 @@
   </tr>
 </table>
 
-<!-- Icons by Lordicon (https://lordicon.com) -->
+<!-- Icons by IconMCP (https://iconmcp.com) -->
 <!-- Footer -->
 <div align="center">
 
