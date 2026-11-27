@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="96" height="96" shape-rendering="crispEdges" role="img" aria-label="NCD Screening">
+  <title>NCD Screening</title>
+  <desc>Pixel heart with an EKG trace for NCD Screening.</desc>
+  <rect x="1" y="0" width="30" height="32" fill="#050811"/>
+  <rect x="0" y="1" width="32" height="30" fill="#050811"/>
+  <rect x="1" y="1" width="30" height="30" fill="#4c1d3d"/>
+  <rect x="1" y="1" width="29" height="1" fill="#fb7185"/>
+  <rect x="1" y="1" width="1" height="29" fill="#fb7185"/>
+  <rect x="2" y="2" width="28" height="28" fill="#050811"/>
+  <rect x="3" y="3" width="26" height="26" fill="#12182b"/>
+  <rect x="1" y="1" width="2" height="2" fill="#fcd34d"/>
+  <rect x="29" y="1" width="2" height="2" fill="#fcd34d"/>
+  <rect x="1" y="29" width="2" height="2" fill="#fcd34d"/>
+  <rect x="29" y="29" width="2" height="2" fill="#fcd34d"/>
+  <path d="M9 7h4v1h-4zM17 7h4v1h-4zM8 8h1v1h-1zM13 8h1v1h-1zM16 8h1v1h-1zM21 8h1v1h-1zM7 9h1v1h-1zM14 9h2v1h-2zM22 9h1v1h-1zM7 10h1v1h-1zM22 10h1v1h-1zM7 11h1v1h-1zM22 11h1v1h-1zM7 12h1v1h-1zM22 12h1v1h-1zM7 13h1v1h-1zM22 13h1v1h-1zM7 14h1v1h-1zM22 14h1v1h-1zM8 15h1v1h-1zM21 15h1v1h-1zM9 16h1v1h-1zM20 16h1v1h-1zM10 17h1v1h-1zM19 17h1v1h-1zM11 18h1v1h-1zM18 18h1v1h-1zM12 19h1v1h-1zM17 19h1v1h-1zM13 20h1v1h-1zM16 20h1v1h-1zM14 21h2v1h-2z" fill="#050811" shape-rendering="crispEdges"/>
+  <path d="M9 8h4v1h-4zM17 8h4v1h-4zM8 9h6v1h-6zM16 9h6v1h-6zM8 10h1v1h-1zM11 10h11v1h-11zM8 11h1v1h-1zM10 11h12v1h-12zM8 12h14v1h-14zM8 13h14v1h-14zM8 14h14v1h-14zM9 15h12v1h-12zM10 16h10v1h-10zM11 17h8v1h-8zM12 18h6v1h-6zM13 19h4v1h-4zM14 20h2v1h-2z" fill="#f43f5e" shape-rendering="crispEdges"/>
+  <path d="M9 10h2v1h-2zM9 11h1v1h-1z" fill="#fb7185" shape-rendering="crispEdges"/>
+  <path d="M4 12h1v1h-1zM5 12h1v1h-1zM6 12h1v1h-1zM7 12h1v1h-1zM13 8h1v1h-1zM14 9h1v1h-1zM22 12h1v1h-1zM23 12h1v1h-1zM24 12h1v1h-1zM25 12h1v1h-1zM26 12h1v1h-1zM27 12h1v1h-1z" fill="#38bdf8"/>
+  <path d="M8 12h1v1h-1zM9 12h1v1h-1zM10 12h1v1h-1zM11 12h1v1h-1zM12 11h1v1h-1zM12 10h1v1h-1zM13 9h1v1h-1zM14 10h1v1h-1zM14 11h1v1h-1zM14 12h1v1h-1zM14 13h1v1h-1zM15 14h1v1h-1zM15 15h1v1h-1zM16 14h1v1h-1zM16 13h1v1h-1zM17 12h1v1h-1zM18 12h1v1h-1zM19 12h1v1h-1zM20 12h1v1h-1zM21 12h1v1h-1z" fill="#f0f6fc"/>
+  <path d="M23 23h5v1h-5zM23 24h2v1h-2zM26 24h2v1h-2zM23 25h1v1h-1zM27 25h1v1h-1zM23 26h2v1h-2zM26 26h2v1h-2zM23 27h5v1h-5z" fill="#050811" shape-rendering="crispEdges"/>
+  <path d="M25 24h1v1h-1zM24 25h3v1h-3zM25 26h1v1h-1z" fill="#7ee787" shape-rendering="crispEdges"/>
+</svg>

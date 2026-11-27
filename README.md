@@ -1,121 +1,89 @@
-## <img src="assets/icon-projects.svg" width="24" height="24" align="absmiddle" alt="" /> Flagship Production Projects
-
 <div align="center">
 
-| Project                                                                                                                                                                                    | Overview & Architecture                                                                                                                                                                                  | Platform & Links                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="assets/pinto-logo.png" width="76" height="76" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.25);" /><br/>**Pinto App**<br/><sub>Fakduai Digital Platform</sub> | **Production Super App Platform**<br/>An on-demand super app connecting multi-service workflows, food ordering, and merchant platforms in a unified mobile ecosystem.<br/>                               | [![Google Play](https://img.shields.io/badge/Google_Play-Live-0d1117?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pintoapp.superapp&pcampaignid=web_share)<br/><br/>[![App Store](https://img.shields.io/badge/App_Store-Live-0d1117?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/th/app/pinto/id6754710078?l=th)                                                                                                                                                                                                                                                                                                                                                                            |
-| <img src="assets/icon-ncd.svg" width="60" height="60" alt="NCD Screening" /><br/>**NCD Screening**<br/>                                         | **Mobile Clinical Risk-Assessment Tool**<br/>Specialized healthcare screening application for 4 chronic Non-Communicable Diseases, featuring guided diagnosis flows and clinical record management.<br/> | [![SRS Document](https://img.shields.io/badge/SRS_Document-PDF-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=f43f5e)](https://github.com/Theeraphat-S/Theeraphat-S/blob/main/SRS_%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%204%20%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%87.pdf) |
+<img src="assets/hero-pixel-banner.svg" alt="Pixel art banner: Theeraphat Srimontha (Oven), Mobile &amp; Super-App Engineer. Shipped the Pinto super app and the NCD Screening app; stack Flutter, Go, Spring." width="100%" />
 
-</div>
+# Theeraphat Srimontha (Oven)
 
----
+**Mobile &amp; Super-App Engineer** building scalable production super-apps, cross-platform Flutter experiences, and resilient Go &amp; Spring Boot backend microservices.
 
-## <img src="assets/icon-arsenal.svg" width="24" height="24" align="absmiddle" alt="" /> Technical Arsenal
-
-<div align="center">
-
-### Languages
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dart,ts,js,go,java,kotlin,py,cpp,c,cs,ruby,bash&theme=dark" />
-</a>
-
-<br/>
-
-### Frontend & Cross-Platform
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,react,vue,tauri,wordpress,html,css&theme=dark" />
-</a>
-
-<br/>
-
-### Backend & Cloud
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,firebase,docker,cloudflare,azure&theme=dark" />
-</a>
-
-<br/>
-
-### Database
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite&theme=dark" />
-</a>
-
-<br/>
-
-### Tools & Platforms
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,androidstudio,eclipse,unity,godot,robloxstudio,ubuntu,postman&theme=dark" align="center" />
-</a>
-<img src="assets/swagger.svg" width="48" height="48" alt="Swagger" align="center" style="vertical-align: middle; margin: 0 2px;" />
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cmake&theme=dark" align="center" />
-</a>
-
-<br/>
-
-### Others & Social
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,discord,instagram,linkedin,gmail,windows&theme=dark" />
+<a href="mailto:theeraphat.sm@gmail.com">
+  <img src="assets/btn-email.svg" alt="Email Theeraphat Srimontha at theeraphat.sm@gmail.com" width="336" height="30" />
 </a>
 
 </div>
 
----
+<div align="center">
+  <img src="assets/pixel-divider.svg" alt="" width="100%" />
+</div>
 
-## <img src="assets/icon-stats.svg" width="24" height="24" align="absmiddle" alt="" /> GitHub Stats
+## <img src="assets/pixel-icon-quests.svg" width="32" height="32" align="absmiddle" alt="" /> Quest Log — Flagship Production Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33.3%" align="center" valign="middle">
-      <img src="assets/github-stats.svg" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="33.3%" align="center" valign="middle">
-      <img src="assets/github-streak.svg" width="100%" alt="GitHub Streak" />
-    </td>
-    <td width="33.3%" align="center" valign="middle">
-      <img src="assets/github-languages.svg" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="assets/pixel-pinto-card.svg" width="96" height="96" align="left" alt="Pinto App logo" />
 
----
+### Pinto App — *Fakduai Digital Platform*
 
-## <img src="assets/icon-contrib.svg" width="24" height="24" align="absmiddle" alt="" /> Contribution Graph
+Production on-demand super app connecting multi-service workflows, food ordering, and merchant platforms in a unified mobile ecosystem.
+
+<a href="https://play.google.com/store/apps/details?id=com.pintoapp.superapp&pcampaignid=web_share"><img src="assets/btn-google-play.svg" alt="Get Pinto App on Google Play" width="188" height="30" /></a>&nbsp;<a href="https://apps.apple.com/th/app/pinto/id6754710078?l=th"><img src="assets/btn-app-store.svg" alt="Download Pinto App on the App Store" width="188" height="30" /></a>
+
+<br clear="left" />
+
+<img src="assets/pixel-ncd-card.svg" width="96" height="96" align="left" alt="NCD Screening heart emblem" />
+
+### NCD Screening — *Clinical Risk Assessment*
+
+Mobile healthcare screening application for 4 chronic Non-Communicable Diseases, featuring guided diagnosis flows and clinical record management.
+
+<a href="https://github.com/Theeraphat-S/Theeraphat-S/blob/main/SRS_%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%204%20%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%87.pdf"><img src="assets/btn-srs-pdf.svg" alt="View the NCD Screening software requirements specification (PDF, Thai)" width="188" height="30" /></a>
+
+<br clear="left" />
+
+<div align="center">
+  <img src="assets/pixel-divider.svg" alt="" width="100%" />
+</div>
+
+## <img src="assets/pixel-icon-skills.svg" width="32" height="32" align="absmiddle" alt="" /> Skill Tree — Technical Arsenal
+
+<div align="center">
+  <img src="assets/pixel-skill-tree.svg" alt="Core stack — Mobile client: Flutter (iOS and Android UI), Dart (app logic). Backend core: Go (microservices), Spring Boot (backend APIs). Cloud and data: Supabase (SQL and auth), Firebase (app services)." width="100%" />
+</div>
+
+<div align="center">
+  <img src="assets/pixel-inventory.svg" alt="Full Inventory: Languages (Dart, TypeScript, JavaScript, Go, Java, Kotlin, Python, C++, C, C#, Ruby, Bash); Frontend &amp; Cross-Platform (Flutter, React, Vue, Tauri, WordPress, HTML, CSS); Backend, Cloud &amp; DB (Node.js, Spring, Firebase, Docker, Cloudflare, Azure, PostgreSQL, Supabase, MySQL, SQLite); Tools, Engines &amp; Creative (Git, GitHub, GitLab, Bitbucket, VS Code, Visual Studio, Android Studio, Eclipse, Postman, Swagger, CMake, Ubuntu, Windows, Unity, Godot, Roblox Studio, Figma, Photoshop, Premiere Pro, After Effects)" width="100%" />
+</div>
+
+<div align="center">
+  <img src="assets/pixel-divider.svg" alt="" width="100%" />
+</div>
+
+## <img src="assets/pixel-icon-stats.svg" width="32" height="32" align="absmiddle" alt="" /> Player Stats &amp; Repo Languages
+
+<div align="center">
+  <img src="assets/pixel-stats.svg" alt="GitHub stats for the past year: commits, contributions, pull requests, active days, and top languages by code size across owned repositories (auto-synced daily)" width="100%" />
+</div>
+
+<div align="center">
+  <img src="assets/pixel-divider.svg" alt="" width="100%" />
+</div>
+
+## <img src="assets/pixel-icon-snake.svg" width="32" height="32" align="absmiddle" alt="" /> Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-    <img alt="Contribution Snake" src="assets/github-snake-dark.svg" width="100%" />
+    <img alt="Animated GitHub contribution graph with a snake eating past-year contributions" src="assets/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
----
-
-## <img src="assets/icon-analytics.svg" width="24" height="24" align="absmiddle" alt="" /> GitHub Analytics & Activity
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/github-metrics-left.svg" alt="GitHub Analytics & Calendar" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/github-metrics-right.svg" alt="GitHub Activity & Community" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<!-- Icons by IconMCP (https://iconmcp.com) -->
-<!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
+<img src="assets/pixel-footer.svg" alt="Save point — thanks for visiting, say hello" width="100%" />
+
+<br/>
+
+<a href="mailto:theeraphat.sm@gmail.com">
+  <img src="assets/btn-email.svg" alt="Email Theeraphat Srimontha at theeraphat.sm@gmail.com" width="336" height="30" />
+</a>
 
 </div>

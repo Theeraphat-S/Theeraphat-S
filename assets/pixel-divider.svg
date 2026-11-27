@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 7" width="840" height="21" shape-rendering="crispEdges" role="img" aria-label="Section divider">
+  <title>Section divider</title>
+  <desc>Pixel section divider with a crystal.</desc>
+  <rect x="6" y="3" width="122" height="1" fill="#223052"/>
+  <rect x="152" y="3" width="122" height="1" fill="#223052"/>
+  <rect x="24" y="3" width="84" height="1" fill="#2b4570"/>
+  <rect x="172" y="3" width="84" height="1" fill="#2b4570"/>
+  <rect x="116" y="3" width="12" height="1" fill="#58a6ff"/>
+  <rect x="152" y="3" width="12" height="1" fill="#58a6ff"/>
+  <path d="M139 0h1v1h-1zM138 1h1v1h-1zM140 1h1v1h-1zM137 2h1v1h-1zM141 2h1v1h-1zM136 3h1v1h-1zM142 3h1v1h-1zM137 4h1v1h-1zM141 4h1v1h-1zM138 5h1v1h-1zM140 5h1v1h-1zM139 6h1v1h-1z" fill="#58a6ff" shape-rendering="crispEdges"/>
+  <path d="M139 1h1v1h-1zM138 2h1v1h-1zM140 2h1v1h-1zM137 3h2v1h-2zM140 3h2v1h-2zM138 4h1v1h-1zM140 4h1v1h-1zM139 5h1v1h-1z" fill="#38bdf8" shape-rendering="crispEdges"/>
+  <path d="M139 2h1v1h-1zM139 3h1v1h-1zM139 4h1v1h-1z" fill="#f0f6fc" shape-rendering="crispEdges"/>
+</svg>
